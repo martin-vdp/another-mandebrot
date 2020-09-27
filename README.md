@@ -1,2 +1,2 @@
 # another-mandebrot
-another mandelbrot impletation in C
+another mandelbrot implementation in C
